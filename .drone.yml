@@ -6,7 +6,7 @@ build:
 
 publish:
   docker:
-    repo: Requiem51/cicd_demoapp
+    repo: requiem51/cicd_demoapp
     tag: latest
     username: $$DOCKER_USERNAME
     password: $$DOCKER_PASSWORD
